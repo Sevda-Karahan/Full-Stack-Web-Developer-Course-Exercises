@@ -1,0 +1,7 @@
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg6\bin\Debug\Uyg6.exe.config
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg6\bin\Debug\Uyg6.exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg6\bin\Debug\Uyg6.pdb
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg6\obj\Debug\Uyg6.csproj.CoreCompileInputs.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg6\obj\Debug\Uyg6.exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg6\obj\Debug\Uyg6.pdb
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg6\obj\Debug\Uyg6.csproj.AssemblyReference.cache
