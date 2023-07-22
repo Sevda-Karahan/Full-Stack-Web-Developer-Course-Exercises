@@ -36,6 +36,19 @@ namespace Uyg19
                 }
             }
 
+            //with foreach
+            //foreach (int number in numbers)
+            //{
+            //    Console.Write(number + " ");
+            //    if (number < 0)
+            //    {
+            //        negative++;
+            //    }
+            //    else if (number > 0)
+            //    {
+            //        positive++;
+            //    }
+            //}
             Console.WriteLine("\nDizideki pozitif sayı adedi: " + positive);
             Console.WriteLine("Dizideki negatif sayı adedi: " + negative);
             Console.ReadLine();
