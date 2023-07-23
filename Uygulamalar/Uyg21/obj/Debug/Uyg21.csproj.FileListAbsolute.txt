@@ -1,0 +1,6 @@
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg21\bin\Debug\Uyg21.exe.config
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg21\bin\Debug\Uyg21.exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg21\bin\Debug\Uyg21.pdb
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg21\obj\Debug\Uyg21.csproj.CoreCompileInputs.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg21\obj\Debug\Uyg21.exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg21\obj\Debug\Uyg21.pdb
