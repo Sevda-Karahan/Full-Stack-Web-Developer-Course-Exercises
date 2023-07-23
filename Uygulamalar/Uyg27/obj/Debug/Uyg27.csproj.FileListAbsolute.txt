@@ -1,0 +1,7 @@
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg27\bin\Debug\Uyg27.exe.config
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg27\bin\Debug\Uyg27.exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg27\bin\Debug\Uyg27.pdb
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg27\obj\Debug\Uyg27.csproj.AssemblyReference.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg27\obj\Debug\Uyg27.csproj.CoreCompileInputs.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg27\obj\Debug\Uyg27.exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg27\obj\Debug\Uyg27.pdb
