@@ -1,0 +1,7 @@
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg28\obj\Debug\Uyg28.csproj.AssemblyReference.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg28\obj\Debug\Uyg28.csproj.CoreCompileInputs.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg28\bin\Debug\Uyg28.exe.config
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg28\bin\Debug\Uyg28.exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg28\bin\Debug\Uyg28.pdb
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg28\obj\Debug\Uyg28.exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg28\obj\Debug\Uyg28.pdb
