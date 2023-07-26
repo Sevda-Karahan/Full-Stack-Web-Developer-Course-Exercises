@@ -4,3 +4,4 @@ C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullSta
 C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg33\obj\Debug\Uyg33.csproj.CoreCompileInputs.cache
 C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg33\obj\Debug\Uyg33.exe
 C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg33\obj\Debug\Uyg33.pdb
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Uygulamalar\Uyg33\obj\Debug\Uyg33.csproj.AssemblyReference.cache

@@ -8,7 +8,7 @@ namespace Uyg33
 {
     class Program
     {
-        //POLYMORPHISM
+        //POLYMORPHISM -> Overloading
         // method does not take any parameter 
         public void greet()
         {
