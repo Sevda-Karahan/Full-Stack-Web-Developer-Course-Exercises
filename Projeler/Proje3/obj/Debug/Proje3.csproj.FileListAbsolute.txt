@@ -1,0 +1,11 @@
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Projeler\Proje3\bin\Debug\Proje3.exe.config
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Projeler\Proje3\bin\Debug\Proje3.exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Projeler\Proje3\bin\Debug\Proje3.pdb
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Projeler\Proje3\obj\Debug\Proje3.csproj.AssemblyReference.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Projeler\Proje3\obj\Debug\Proje3.Form1.resources
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Projeler\Proje3\obj\Debug\Proje3.Properties.Resources.resources
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Projeler\Proje3\obj\Debug\Proje3.csproj.GenerateResource.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Projeler\Proje3\obj\Debug\Proje3.csproj.CoreCompileInputs.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Projeler\Proje3\obj\Debug\Proje3.exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Projeler\Proje3\obj\Debug\Proje3.pdb
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Projeler\Proje3\obj\Debug\Proje3.Formalar.resources

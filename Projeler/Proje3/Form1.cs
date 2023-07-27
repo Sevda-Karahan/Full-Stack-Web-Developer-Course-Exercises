@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Proje1
+namespace Proje3
 {
     public partial class Form1 : Form
     {
@@ -17,12 +17,11 @@ namespace Proje1
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void klasikToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string ad = textBox1.Text;
-            //string soyad = textBox2.Text;
-            //string meslek = textBox3.Text;
-            MessageBox.Show(ad + " Hosgeldin!");
+            Formalar formalar = new Formalar();
+            formalar.Show();
+            this.Hide();
         }
     }
 }

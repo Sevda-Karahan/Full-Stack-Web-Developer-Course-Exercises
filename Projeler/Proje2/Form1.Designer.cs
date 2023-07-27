@@ -62,7 +62,6 @@ namespace Proje2
             this.label2.Size = new System.Drawing.Size(136, 20);
             this.label2.TabIndex = 0;
             this.label2.Text = "2. Sayıyı Giriniz:";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
@@ -74,7 +73,6 @@ namespace Proje2
             this.label3.Size = new System.Drawing.Size(113, 20);
             this.label3.TabIndex = 0;
             this.label3.Text = "İşlemi giriniz:";
-            this.label3.Click += new System.EventHandler(this.label2_Click);
             // 
             // textBox1
             // 
@@ -84,7 +82,6 @@ namespace Proje2
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(148, 26);
             this.textBox1.TabIndex = 1;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
@@ -94,7 +91,6 @@ namespace Proje2
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(148, 26);
             this.textBox2.TabIndex = 1;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // textBox3
             // 
@@ -104,7 +100,6 @@ namespace Proje2
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(148, 26);
             this.textBox3.TabIndex = 1;
-            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // button1
             // 
@@ -168,7 +163,6 @@ namespace Proje2
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
