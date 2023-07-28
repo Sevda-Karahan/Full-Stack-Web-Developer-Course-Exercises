@@ -1,4 +1,4 @@
-**********A SMALL-SCALE tRESTAURANT**********
+**********A SMALL-SCALE RESTAURANT**********
 
 ![image](https://github.com/Sevda-Karahan/Full-Stack-Web-Developer-Course-Exercises/assets/116480291/c231fccf-455a-41af-b9e9-ef0ec0adf04d)
 
