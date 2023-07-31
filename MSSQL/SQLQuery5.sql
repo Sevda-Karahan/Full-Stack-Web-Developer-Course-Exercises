@@ -34,3 +34,6 @@ select COUNT(*) from Ogrenciler1 where adres='Ýstanbul'
 alter table Ogrenciler1 drop column Odeme
 
 select * from Ogrenciler1
+
+--TRUNCATE (Tabloyu Sýfýrlar)
+truncate table Ogrenciler1
