@@ -47,3 +47,25 @@ create table Deneme_Check
 	yas tinyint,
 	check (yas>=18)
 )
+
+--Deneme_Default adlı tablo
+--Id, ad, soyad, sehir alanları
+--sehir alanı bos geçildiğinde otomatik İstanbul yazsın.
+
+--constraint: kısıtlayıcı
+create table Deneme_Default
+(
+	Id int primary key identity(1,1),
+	ad varchar(50),
+	soyad varchar(50),
+	sehir varchar(50) constraint denemeDefault default('İstanbul'),
+)
+
+
+create table Deneme_Default2
+(
+	Id int primary key identity(1,1),
+	ad varchar(50),
+	soyad varchar(50),
+	sehir varchar(50) default('İstanbul'),
+)
