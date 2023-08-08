@@ -1,0 +1,10 @@
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\bin\Debug\Ado.Net(Prosedursuz).exe.config
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\bin\Debug\Ado.Net(Prosedursuz).exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\bin\Debug\Ado.Net(Prosedursuz).pdb
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\obj\Debug\Ado.Net(Prosedursuz).csproj.AssemblyReference.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\obj\Debug\Ado.Net_Prosedursuz_.Form1.resources
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\obj\Debug\Ado.Net_Prosedursuz_.Properties.Resources.resources
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\obj\Debug\Ado.Net(Prosedursuz).csproj.GenerateResource.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\obj\Debug\Ado.Net(Prosedursuz).csproj.CoreCompileInputs.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\obj\Debug\Ado.Net(Prosedursuz).exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\obj\Debug\Ado.Net(Prosedursuz).pdb
