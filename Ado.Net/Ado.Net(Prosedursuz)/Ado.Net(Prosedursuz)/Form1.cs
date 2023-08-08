@@ -23,7 +23,7 @@ namespace Ado.Net_Prosedursuz_
 
         public void List()
         {
-            SqlDataAdapter adapter = new SqlDataAdapter("Select * from Istirakler", connection); //Veri çekmek için kullanılır. Verirleri düzensiz çeker.
+            SqlDataAdapter adapter = new SqlDataAdapter("Select * from Istirakler", connection); //Listeleme gibi durumlarda veri çekmek için kullanılır. Verirleri düzensiz çeker.
             //Verileri düzenli hale getirmeliyiz
             DataTable table = new DataTable(); // Düzensiz veriyi düzenli hale getirir.
             adapter.Fill(table);
@@ -77,7 +77,7 @@ namespace Ado.Net_Prosedursuz_
         private void BtnGuncelle_Click(object sender, EventArgs e)
         {
             connection.Open();
-            SqlCommand command = new SqlCommand("update Istirakler set IstirakAdi=@IstirakAdi, IstirakTanim=@IstirakTanim, CalisanSayisi=@CalisanSayisi, Tarih=@Tarih where IstirakID=@IstirakID", connection); //insert, update, delete yaparken kullanılır.
+            SqlCommand command = new SqlCommand("update Istirakler set IstirakAdi=@IstirakAdi, IstirakTanim=@IstirakTanim, CalisanSayisi=@CalisanSayisi, Tarih=@Tarih where IstirakID=@IstirakID", connection); //insert, update, delete gibi Cloud işlemlerinde kullanılır.
             command.Parameters.AddWithValue("@IstirakID", TxtAdi.Tag);
             command.Parameters.AddWithValue("@IstirakAdi", TxtAdi.Text);
             command.Parameters.AddWithValue("@IstirakTanim", TxtTanim.Text);
