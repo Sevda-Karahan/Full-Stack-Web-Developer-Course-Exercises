@@ -48,6 +48,6 @@ SEARCH / ARAMA
 
 CLEAR / TEMİZLEME
 
-![image](https://github.com/Sevda-Karahan/Full-Stack-Web-Developer-Course-Exercises/assets/116480291/5f93524e-3b5d-4dce-b542-8e73bd7c0eb3)
+![image](https://github.com/Sevda-Karahan/Full-Stack-Web-Developer-Course-Exercises/assets/116480291/86bebabd-9897-442d-ada7-d788ba00fca9)
 
 ![image](https://github.com/Sevda-Karahan/Full-Stack-Web-Developer-Course-Exercises/assets/116480291/fdfaf731-f36b-4824-bba1-2e5299fd0ab4)
