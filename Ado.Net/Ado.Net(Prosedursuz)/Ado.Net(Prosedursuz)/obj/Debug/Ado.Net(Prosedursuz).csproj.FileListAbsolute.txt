@@ -9,3 +9,4 @@ C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullSta
 C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\obj\Debug\Ado.Net(Prosedursuz).exe
 C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\obj\Debug\Ado.Net(Prosedursuz).pdb
 C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\obj\Debug\Ado.Net_Prosedursuz_.Login.resources
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedursuz)\Ado.Net(Prosedursuz)\obj\Debug\Ado.Net_Prosedursuz_.Logo.resources

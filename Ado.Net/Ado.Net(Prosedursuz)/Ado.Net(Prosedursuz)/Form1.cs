@@ -116,5 +116,11 @@ namespace Ado.Net_Prosedursuz_
         {
             MyClearMethod();
         }
+
+        private void BtnResim_Click(object sender, EventArgs e)
+        {
+            Logo logo = new Logo();
+            logo.Show();
+        }
     }
 }
