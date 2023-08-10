@@ -1,0 +1,12 @@
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedurlu)\Ado.Net(Prosedurlu)\bin\Debug\Ado.Net(Prosedurlu).exe.config
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedurlu)\Ado.Net(Prosedurlu)\bin\Debug\Ado.Net(Prosedurlu).exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedurlu)\Ado.Net(Prosedurlu)\bin\Debug\Ado.Net(Prosedurlu).pdb
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedurlu)\Ado.Net(Prosedurlu)\obj\Debug\Ado.Net(Prosedurlu).csproj.AssemblyReference.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedurlu)\Ado.Net(Prosedurlu)\obj\Debug\Ado.Net_Prosedurlu_.Form1.resources
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedurlu)\Ado.Net(Prosedurlu)\obj\Debug\Ado.Net_Prosedurlu_.Properties.Resources.resources
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedurlu)\Ado.Net(Prosedurlu)\obj\Debug\Ado.Net(Prosedurlu).csproj.GenerateResource.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedurlu)\Ado.Net(Prosedurlu)\obj\Debug\Ado.Net(Prosedurlu).csproj.CoreCompileInputs.cache
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedurlu)\Ado.Net(Prosedurlu)\obj\Debug\Ado.Net(Prosedurlu).exe
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedurlu)\Ado.Net(Prosedurlu)\obj\Debug\Ado.Net(Prosedurlu).pdb
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedurlu)\Ado.Net(Prosedurlu)\obj\Debug\Ado.Net_Prosedurlu_.Guncelleme.resources
+C:\Users\Sevda Karahan\OneDrive - Yildiz Technical University\Masaüstü\FullStackCourse\Ado.Net\Ado.Net(Prosedurlu)\Ado.Net(Prosedurlu)\obj\Debug\Ado.Net_Prosedurlu_.Silme.resources
